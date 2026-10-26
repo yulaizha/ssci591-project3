@@ -1,7 +1,7 @@
 # LA Metro Rail Station Explorer
 
 ## What this map shows
-This project presents an interactive web map showing LA Metro rail stations and rail and bus rapid transit (BRT) lines in Los Angeles, California. It mainly focuses on LA Metro rail stations. The purpose of this project is to help users easily explore the geographic distribution of transit stations in LA and be more familiar with how the stations are connected by different routes. Users are able to zoom in and out, navigate around the map, and click on individual stations to check their names and associated transit lines.
+This project presents an interactive web map showing LA Metro rail stations and rail and bus rapid transit (BRT) lines in Los Angeles, California. The purpose of this project is to help users easily explore the geographic distribution of transit stations in LA and be more familiar with how the stations are connected by different routes. Users are able to zoom in and out, navigate around the map, and click on individual stations to check their names and associated transit lines.
 
 ## Starting sample
 This LA Metro Rail Station application is based on Esri's official [Intro to FeatureLayer](https://developers.arcgis.com/javascript/latest/sample-code/intro-layers/) sample from the ArcGIS Maps SDK for JavaScript 5.1. The original sample displays tree carbon storage data and I adapted its structure to create an interactive public transportation map.

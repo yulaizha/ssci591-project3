@@ -4,7 +4,7 @@
 This project presents an interactive web map showing LA Metro rail stations and rail and bus rapid transit (BRT) lines in Los Angeles, California. The purpose is to help users explore the geographic distribution of transit stations in LA and understand how they are connected by different routes. Users can zoom in and out, navigate around the map, and click on individual stations to check their names and associated transit lines.
 
 ## Starting sample
-This application based on Esri's official [Intro to FeatureLayer](https://developers.arcgis.com/javascript/latest/sample-code/intro-layers/) sample from the ArcGIS Maps SDK for JavaScript 5.1. The original sample displays tree carbon storage data, and I adapted it to create an interactive public transportation map.
+This application is based on Esri's official [Intro to FeatureLayer](https://developers.arcgis.com/javascript/latest/sample-code/intro-layers/) sample from the ArcGIS Maps SDK for JavaScript 5.1. The original sample displays tree carbon storage data, and I adapted it to create an interactive public transportation map.
 
 ## What I changed
 Firstly, I changed the map's center and zoom level to focus on Los Angeles. Then, I replaced the hybrid basemap with a grey vector basemap. I customized the station symbols to blue circles with white outlines and added gray lines for transit routes. In addition, I changed the page title, background colors, and text colors. Finally, I replaced the tree dataset with two LA Metro FeatureLayers and configured a popup for station information.
